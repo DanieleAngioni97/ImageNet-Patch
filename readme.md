@@ -1,6 +1,7 @@
 # **ImageNet-Patch: A Dataset for Benchmarking Machine Learning Robustness against Adversarial Patches**
 
 The demo code for the application of the generated patches on a batch from the Imagenet dataset.
+
 You can also find the images with the patches applied in the physical world in this dropbox link: https://www.dropbox.com/scl/fo/6pin19joxsu3yp5sjzm0u/h?dl=0&rlkey=60eor85ral2bmytnuty397en6
 
 <p align="center">
